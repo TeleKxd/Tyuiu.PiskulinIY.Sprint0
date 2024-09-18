@@ -15,7 +15,7 @@
 
             Console.WriteLine("A / B = " + DataService.Division(9, 3));
 
-            Console.ReadKey();
+        Console.ReadKey();
         }
     
     }
